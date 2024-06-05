@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Slime",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Slime",
+  "parent":{
+    "name":"Enemy",
+    "path":"folders/Scripts/Enemy.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ScrShake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrShake",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

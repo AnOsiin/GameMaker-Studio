@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ActLift_able",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ActLift_able",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

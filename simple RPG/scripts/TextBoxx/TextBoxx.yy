@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"TextBoxx",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TextBoxx",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

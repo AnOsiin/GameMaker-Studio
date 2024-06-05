@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CollectF",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CollectF",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

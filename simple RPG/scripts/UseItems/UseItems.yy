@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"UseItems",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UseItems",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Scripts/Interaction.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"PlayerGetHit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlayerGetHit",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

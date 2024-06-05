@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ExecuteArray",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ExecuteArray",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
